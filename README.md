@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -40,17 +41,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
 |  |
 | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Design
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
