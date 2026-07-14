@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
