@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0554-brick-wall](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0554-brick-wall) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0554-brick-wall](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0554-brick-wall) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
