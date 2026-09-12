@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0554-brick-wall](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0554-brick-wall) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0134-gas-station) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
