@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0554-brick-wall](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/0554-brick-wall) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/karthikraj2845/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
